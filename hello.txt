@@ -1,1 +1,3 @@
 Hell from learning git!
+
+Hi I pushed from Linux!
