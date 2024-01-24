@@ -1,0 +1,3 @@
+echo "test"
+whoami
+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
